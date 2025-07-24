@@ -8,6 +8,13 @@
       "when": 1752311231550,
       "tag": "0000_first_johnny_blaze",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752962872016,
+      "tag": "0001_good_fenris",
+      "breakpoints": true
     }
   ]
 }
